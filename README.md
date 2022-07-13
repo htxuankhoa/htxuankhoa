@@ -4,12 +4,9 @@ Thank you for stopping by my GitHub bio.
 
 I'm Khoa Hoang, a Python developer. Currently, I'm based in Ho Chi Minh city, Vietnam.
 
-If you want to support me, you can [PayPal me](https://paypal.me/htxuankhoa)
+If my open source projects are useful for your **product/company**, you can also sponsor my work via [PayPal.me](https://paypal.me/htxuankhoa)
 
-# Other On-the-Line places
-<p align = "center">
+You can find me on:
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/htxuankhoa) 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](https://htxuankhoa.me)
-
-</p>
+* [Twitter as @htxuankhoa](https://twitter.com/htxuankhoa)
+* [GitHub as @htxuankhoa (you are here)](https://github.com/htxuankhoa)

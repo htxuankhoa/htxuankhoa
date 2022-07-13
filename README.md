@@ -6,7 +6,7 @@ I'm Khoa Hoang, a Python developer. Currently, I'm based in Ho Chi Minh city, Vi
 
 If you want to support me, you can [PayPal me](https://paypal.me/htxuankhoa)
 
-# Other places you can find me
+# Other On-the-Line places
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/htxuankhoa) 
